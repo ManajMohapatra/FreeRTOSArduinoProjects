@@ -6,3 +6,4 @@
 - Please check **README.md** of latest commit of master branch to find details of all the projects
 
 ### Project List
+1. Create task using FreeRTOS library (**createTask**)
