@@ -7,3 +7,4 @@
 
 ### Project List
 1. Create task using FreeRTOS library (**createTask**)
+2. Delete, suspend and resume task (**deleteSuspendResumeTask**)
