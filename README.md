@@ -8,3 +8,4 @@
 ### Project List
 1. Create task using FreeRTOS library (**createTask**)
 2. Delete, suspend and resume task (**deleteSuspendResumeTask**)
+3. Change priority of a task (**changeTaskPriority**)
